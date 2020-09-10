@@ -2,6 +2,8 @@
 Welcome to my first publicaly available discord bot source code page!
  
 ## functionality 
+
+[![Run on Repl.it](https://repl.it/badge/github/Eddy-Arch/NSFW_Discordb_bot)](https://repl.it/github/Eddy-Arch/NSFW_Discordb_bot)
  
 it can do some social stuff,
 it can do le epic hentai stuff
